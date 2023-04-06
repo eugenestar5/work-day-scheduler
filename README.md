@@ -13,6 +13,8 @@ After 5pm all the time slots turns to green, meaning it resets for the user to s
 
 ![Time slots from 9am to 5pm](./Assets/Images/WorkDaySchedule_2.jpg)
 
+![Time slots from 9am to 5pm](./Assets/Images/WorkDaySchedule_3.jpg)
+
 
 ## Technology Used
 - HTML
@@ -23,4 +25,4 @@ After 5pm all the time slots turns to green, meaning it resets for the user to s
 
 Below is the link to the deployed application
 
-https://eugenestar5.github.io/work-day-schedule/
+https://eugenestar5.github.io/work-day-scheduler/
